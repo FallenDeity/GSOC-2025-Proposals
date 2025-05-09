@@ -152,7 +152,7 @@ Available kernels:
   python3       C:\Users\Triyan Mukherjee\AppData\Local\Programs\Python\Python310\share\jupyter\kernels\python3
 ```
 
-![Typescript Notebook](https://gist.github.com/user-attachments/assets/034181d9-efc6-4880-b56b-42b7ac8e0755)
+![image](https://github.com/user-attachments/assets/f9dd75e8-fef7-4755-830a-3e4c208a7b3e)
 
 ### 2.2.2 Examples Migration
 
